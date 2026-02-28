@@ -1,9 +1,13 @@
-## Hi there 👋
+## About Me
+*  A **Digital Game Design** student.
+*  Experienced in **gameplay** and **systems development** alongside **user experience**, but still a newbie at **art** and **level design**.
 
-I am a **Digital Game Design** student from **Istanbul**.
+## Development Areas
+* **C#**
+* **Unity**
+* **Unreal Engine Blueprints**
 
-Making games has been a hobby of mine, and it has now become my job.
-
-My development areas are **Unity** and **C#**, though I'm also comfortable working with **Unreal Engine Blueprints**.
-
-I'm currently working on **physics systems**, **multiplayer game development**, and **procedural generation algorithms**.
+## Currently Working On
+* **Physics systems**
+* **Multiplayer game development**
+* **Procedural generation algorithms**
